@@ -1,0 +1,114 @@
+<html>
+<head>
+    <title>Рибки</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <nav class="content">
+            <a href="rybki">ОПИС РУХІВ РИБОК</a>
+            <a href="rybki2">Загальний опис</a>
+            <a href="rybki3">Чому їх так названо</a>
+            <a href="rybki4">ПРО ЖУЧКІВ ХВОСТАТИХ ТА РАВЛИКІВ</a>
+            <a href="rybki5">ВІДЕО З РИБКАМИ</a>
+        </nav>
+        <h1>Я розповім про купу рибок, яких зараз є ПОВСЮДИ</h1>
+        <h3>ЇХ ВСЬОГО 15, РИБОК СКЛАДНО РАХУВАТИ ТОМУ, ЩО ВОНИ ДУЖЕ ШВИДКО ПЛАВАЮТЬ, НАВІТЬ ЖУКИ</h3>   
+    </header>
+    <main>
+        <h4 id="rybki">ОПИС РУХІВ РИБОК</h4>
+        <p>У всіх вони схожі. Якщо вони махають крилами і хвостами, то вони вимагають їсти, й це зазвичай біля скла, бо саме в тих місцях я їх годую. Іноді вони дзьобають равликів (на щастя, за мушлі), такі "НЕ ЗАВАЖАЙ МЕНІ" (в будь-якому значенні). Але найчастіше вони очами водять, бо є доволі емоційними. Іноді вони деруться, тобто клюють одне одного за спини, хвости, плавники. Часто, коли вони голодні то просто плавають біля скла, й перевіряють, чи не йдуть їх годувати.</p>
+        <h4 id="rybki2">Загальний опис</h4>
+        <h3>Червона Старійшина</h3>
+        <img src="https://i.imgur.com/pPiLq61.jpeg">
+        <ul>
+            <li>Пецилія - червона рибка з чорним хвостом,крилами та "вусами" на морді</li>
+            <li>Найнайемоційніша та найстарша серед рибок</li>
+            <li>Має свою хатку - кілька дивакувато зрослих листків-водоростей за мушлею</li>
+            <li>Часто плаває біля хатки або в ній, спостерігаючи все, що діється поза акваріумом</li>
+            <li>Я так розумію місце від мушлі до фільтра - її територія, тому вона сюди якимсь дивом не пускає тільки Альбіноса</li>
+            <li>Якщо я несу щось цікавеньке в руках, вона обов'язково завмре і приглянеться, "що ж це таке?"</li>
+            <li>Вона коли їсть, випадково може інших рибок дзьобнути, не кажучи про равликів</li>
+            <li>Вона напевне дуже поважна у такому собі "маленькому селі", її ніхто не сміє дзьобати</li>
+            <li>Нещодавно, на жаль, зникла (27.05.2024)</li>
+        </ul>
+        <h3>Чорнобрив</h3>
+        <img src="https://i.imgur.com/w2xFNxP.jpeg">
+        <ul>
+            <li>Гупі - темно-сіра рибка з чорними хвостом да плавника, плавником й крилами</li>
+            <li>Сором'язливий хлопчик, але обов'язково разом з усіма припливе на стукіт</li>
+            <li>Є батьком своїх десяти дітей</li>
+            <li>Зазвичай плаває біля поверхні</li>
+            <li>Його Альбінос кльоє активно №2</li>
+        </ul>
+        <h3>Альбінос</h3>
+        <img src="https://i.imgur.com/FcPivDH.jpg">
+        <ul>
+            <li>Гупі - прозора жовтувата рибка, є дівчинкою</li>
+            <li>Противна, на всіх дивиться, як середа на п’ятницю</li>
+            <li>Клює всіх підряд, але не Старійшину</li>
+            <li>Її явно улюблене місце - плавати в кутку акваріума поміж коренів рослин</li>
+            <li>Мене любить, але якщо я ій потикаю пальцем, вона битиметься з іншими рибками :(</li>
+            <li>Також любителька поглядань на оточуюче поза акваріумом</li>
+            <li>Її часто жуки клюють, а вона чомусь з ними не б'ється</li>
+            <li>У неї починається вигинатись хвіст, вона житиме менше, ніж інші, бо часто рибки з такими хвостами живуть максимум 4 місяці</li>
+            <li>Після того, як зникли Старійшина та Фуга, її почали чіпати старші жуки</li>
+            <li>Також після пропажу вона менше клюється, навіть якщо їй пальцем тикнути</li>
+        </ul>
+        <h3>Фуга</h3>
+        <img src="https://i.imgur.com/DeMPnSE.jpeg">
+        <ul>
+            <li>Гупі - сіра рибка з майже прозорим хвостом</li>
+            <li>100% є багатодітною матусею</li>
+            <li>Коли плаває у неї чомусь не може закритись нормально рот, і вона постійно його відкриває й закриває</li>
+            <li>50% плаває повсюди, 50% плаває разом з Дугою</li>
+            <li>Вони з Дугою є сестрами, дуже схожі.</li>
+            <li>Є №1 при клюванні Альбіносом, але вона захищається! Іноді Дуга відганяє від неї Альбіноса</li>
+            <li>29.05.2024 здохла...</li>
+        </ul>
+        <h3>Дуга</h3>
+        <img src="https://i.imgur.com/KaZk8xY.jpeg">
+        <ul>
+            <li>Гупі - сіра рибка з жовтим у дрібну чорну крапку хвостом</li>
+            <li>Маю припущення, що кілька жуків є її дітьми</li>
+            <li>на 70% реагує на мій палець</li>
+            <li>зазвичай навколо фільтра плаває</li>
+            <li>Жуки менше її чіпають, ніж Альбіноса</li>
+        </ul>
+        <h4 id="rybki3">Чому їх так названо</h4>
+        <ul>
+            <img src="https://florium.ua/media/catalog/product/cache/1/file/9df78eab33525d08d6e5fb8d27136e95/t/o/tov-mak-vostochnyj-krasnyj-mnogoletnij.jpg">
+            <li>Червона Старійшина - тому, що це найстарша рибка, і до того ж червона як мак</li>
+            <img src="https://i.pinimg.com/236x/81/b7/ac/81b7acf1a27032fc1a36783fdebb5df9.jpg">
+            <li>Чорнобрив - тому, що квітка теж чорна (тут уже мається на увазі чорні чорнобривці)</li>
+            <img src="https://i.imgur.com/FcPivDH.jpg">
+            <li>Альбінос - тому, що рибка прозора</li>
+            <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTExMVFRUWGBcXFRgXFRcYFxUVFRcXFxUVFRYYHSggGholHRgVITEhJSorLi4uFx8zODMsNygvLisBCgoKDg0OGhAQGy0mICYuLS0tKy0tLS0tLS0vLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMEBBQMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAECB//EAD0QAAIBAwMDAgQFAwEHAwUAAAECEQADIQQSMQUiQRNRBjJhcRQjQoGRUmKhwQcVQ7HR4fAkgvEWM1Nyov/EABsBAAMBAQEBAQAAAAAAAAAAAAECAwAEBQYH/8QALxEAAgIBAwMCBQQCAwEAAAAAAAECEQMSITEEE0FR8AUiMmFxFIGRobHhM8HRFf/aAAwDAQACEQMRAD8AAfTe1bt2yPFGAVIFr0e0mfnfeaCdDqyiFYn/AL1GK0K6UVWGOMbpEcmWU6t8GwK7Armu6oRZ0orqK0BW6YRmV0K0K2KwETW3jzUgvn3oZa2DU9KuzpjmkkkiV7k5NcVlammoVyvk1WEVuaz/AM5rAONtT6WyJk8V1ZtTRC6c1LJNcHVgwNtSq0d3kSPFKtSonFMWsGgtRZjNJhaXkr1cZNfTQGwrhhUxrkoTXSefG2QKxBmtNmpmtEeDXFJsVdrkHYVCwolhUbLQHiwR1qB1oxxUDilaOiMgK4tQNbo11oZxU2dMJAzWaFvoBRdwmg7oJqEou+Tqx2COKypCtZROpSL4hmpIrLFmeOalFluNpn7GrY80ZeT53P088b3Wxyoom7plOAc1z+DuQe0/+feq9qrz27oJJBXx9KWeROSUWV6XGt9cfwda3U3LblT4/wAijOkasuc5oXrTb1V/P+lC9F1Oy4vtNbubWtzol0ykqqi23LLLkiK4p0EFxK4XRBhHFJh61ThqaoTq/g88U9MHaoUVsCm1/pQUSDS1rcV0488ZrY8/L0eXF9SOKkIrjaa72mqWiUYv0OTWjUhQ1ztrWguLORWRXWz/AOKktGKDlQ0YNujVq9FEJqqiXSu/yox+wNctoro5Rv4NI4wkdMJZ4LZOvwGrfFQXrimhJIxxUTGlWFWPPrZVTRNaQEzW3cA4ru2QRAqK+gUFmMAeTUM02mdnS44qFqrMLg1xf0TQGKkBsKff9uar/WOuqpe0gbcAM8dx8AEe3mrN0rVepprQ3biokn3b/pXI+o0zUUehLo9WLVkIbPTGJzgV1rtGiJ9f+dGWNcJ2tgihOsXAYz5oa+pl1EYy2j9jgnh6eGGThu/uJHFQstMk0s8mKi1dhV816DzR1aThWOajq8C25bqJdKW4FGsRHFRLqCvFDJqr5SmOSvcFfprRJri50sBZJzRF7VMfNBaq+W5NeVkwdXJ/VR6OPJi9GA3tPBrK5uGTWVVYctbyKWX3RrtM070upDcVUjqWP0qfQX2RpGfcVDqfh0suN1KmTh8QhGaVbFxIFUP4lQtdJAwMVc7GqVlqv6tQxP3rh+B9JkwufevVf9F/iGZaFoEVwsyBdtCppXBBirbp7ojaVFTpplPivoU4wOG8mTjc103qDKgBotNaeRQzabGKgFwjFLFQZSc8qpPgb/iyeaHuKCZoddT4rHaituDNqS3CRWtkDcSAJjJiT7Ch0uGRVe+LmuX7osp2ra7i0NtJEGGKgx5P7VHLllGkuWX6bpo5X9kWnfUtnSs4kKY9/H8mkfTOpotruuK1xUXuJIlyYIRSDvYfUgTTJ9c5uvbPNwKyq2w7VESzN6kIcGQTJ+lM+org6IfDNW8xpZ6Q3LkKP5NThdPZhiVM5BbP+B/zpFe15dwSGUkRY3BArbRBYgyD5zIAGZqt9R+KE2rtfeoKepZUEb1Ksb5388KqSPDNECklnlLg68fQYYb6f3Zd9T8TBXVe1QwBBLDAPEnA/gmutF19bwlXWBIPcDLDwD5P8V5J1HUX0VbbtttBxdtlGkgvbVwAwzhHH7sx5oUar0bi3rA2FGBcAyGHu0yD759zUnLevJ0aldHuI1SXFkrImO8AZiY+h/5+KGPTbLDcGIHGCCAfbNV/R3kvC21zdnM3YVZIIKbScMsztBmf5oxbN5ERrJ37JAkBFuIBIXKyxBgAkn9qpDJJcMTN02HJ9cQ5ujqJh8+JH/SvNfiPUsbuos3byg2sqQSFPB2KgHcxkDOBmn3xP8VFbDGyjepd3WoIKPZfaSZQjccTBA2mDmvO7vUE9QG3YVVe2EXfuaWja13+5i08U08smtyWLocWKVwVGPqg6qFQjaJduSxPufAHAH7+av8A8D6XUkBrhFu14U/M08EL4/eK8ve7sVklhdDZk7VAGI2/1z/AFWD4V6rct6hWuOzrBQZxJGNoJ4+v1rzc+KT3Xg75U4NHofUr6s52iAMfePNBsaM6lblRdEBcD96Wl697DNOCceD4Tqcco5Xq5JCx96hes31y7U7JpMieoHNSsahelbLxILlCXaKuULdpHudeMGasrT1lJsdSLuugmj9PpABxWrT0y0ZBrm7zezF/Rxi7QMtn6V2dDI4pjc2iuH1KgUjzJFo9I3yJ3shDXaPUuptbsioGtkCKXuatyqxdvYIV601oMaiCGpbVs1nOkMlfJPY0amib2iAFS6dhUuobAry//oZH1McXii3YhV0LlUAE+QD/AMq821PWNrM7Xndx3WrYjaGW4WHreDDeodueVnnHpWoIX5sl5VFHzOfZf2nPAqh6rRMfVRNL6du6UVWuGG9RxbaHaSYGzftAkQJgMQfUjbdsrhgo8Im0WtvNfeyNTZIWyy+oygp+Z33FQgfNuYjf9D9BRemtOymzCF1XbbAsPJAyXBO0Biclnk+woez1AILYV5wqsCq2WVbRHkQq4AChp+swKivdUO1nW5MEE/l3GZjdJJR3YbFZRw0At4rOGk7Izs56iy27Vs3Qjorn1Qtt0uAkx6T3iIg+I+9LtLp7nqK1oJpwp1KrduSVYXFaLFxyNpYDcoP92eBR/UNTsS7Zk2mAVvzLZR7yEZt3ArFGbIIJGfBBxRdm0pexaFrUjT37fqLaR1ZnuBWBuW8wRxznFCLrgaSvkqlroRa3Z9Bzcusrm5agg2yhgLPmVg4ng0f0boHqFUacS11Ay24RfmUXHIlj7R/NP9DYvai16gt2zb0uJKqHKySFYAd3jyPPmmNvTW2jWXdKosGFFtGwWIgQfvP044Mig6btoKiLei6djsus5LsfTi7b3I1oAKCbh5K8Yzx9qstvUJbL2nZTJAS6lw7d2Se3iAPPPOcUDortm4psXLj27aAughWABOQFHdt4kgRyJGa56XfuA3DbtLdQgKT6YIjjkcRDdqzGBkkwb8e/+jUF9V6Yl8i1cUNcCs1u9bbuEgZ3LmePbAM4ryr4g6Lc0TBclZ3JcIkrsnEDhdx5gAxXpQFq3bVrVxl1A5trMZkjaRkAkDPsD7SJdUbT2SGIuh43o6LJbzcQnBGCfoIMYzSGRcPj/Hv8k5QfKPDbnd3sQWdmJJPd9SR9STTPRuNq7M3BAJYgDvMKiA+ZklquXxJ/s/UbbmlbDFSqGGEE5NrbLPHkEcCJ8VV+j6QNf9O6UQ7iwuXFK90YDn9A9sQCc/TTglG/Bk7dHpXQ9Pqbmil7e0lsDzsB9j7n7YzQDoRyKZ6LqWoJG+8pZCEuISN6iRtdiD3oZA3A4mnmt0aXM43YJ/zzGCOYOf4qvT5FjjoPI+I/D3ll3Isp4B9q5uAjmnV4KmIgjMeaX39Succc/T71Z5dzyP0bXkXE1C70S9y2eCK6Xp+4SDI/x/IpO4mH9NOO9Ct2oe6aZajQlaCu6as2NFpC+4c1lTPardLZ0qSovVtTRmlmY4rhXWpbDgnFeZmlaO6KCl0xJycVM9hQprdkGo9e5CmK+a/U5cnWLFq2s7K+WwRLgWuvxS0o1CXCahUMvM19PGD5sk8iqmiwjUCOKHbXTwM1BZ10YijtPt+aKyk+GbQvBDb1LcxFN9K4uLJwB/mOaCtFLrbfbn7VL1O6NmxJ/UqqqkkttG0gcRz3EwOeRWjghOSyNbrgpGO4h+ItcxYM9skJbu3FCxG2QAd8Yx5BJyIEmaqmp1qHaLZWNgtt80sX7rplvLNCyIGGH1MnVNbYmyShusQ1s2d07mAm2xI5X1LjbVie2Tk1WR6u5JTbtIQjg7rZJO4f1TM/auiTe9FWkkOutdYtp+ULW6IJIcAAx4G0niBzSPQdXsu20grPhmxPja3j2qLqsqzhh3GD95qs3FqePU1udPbhWx6X1PThDddGlDa2rstrljtX07qD3MDeB820xQuju2Ve4UvX09K0DZ3drevK7rcgjaAS+ccfzH0/Rai3pd2o3qRb9S1kblH/AAyfbOROag098PburqGVLmmVgmxZe9cuXpueo64YKNxn2HPNVrYjGW9FqtfD/wCZYsi8jnUIt25JgKZ/VBgnxOTmPapr6XLLGwWDW7THAjYSDDGAcY3TPmZNK+rdMWx6KrdDl7SuyoTtViDtUGSSYH9Pj9PIe9H+IQumOk9Lc7sQHAndJI3xHdETP145qE3vudUFtsH9T6mNc9pEQWsAHcVIIJj5RgxkCcZNS6uzqum/8SQwksIgkDO4sIX6GOYHmgesdAu6W5aAILP5Q7SCDAAJ4MmMc54NZqen6l9Qtm+3eSApLieFYMrfNE88cRxwtvhjqvAV1HphssjXHDpcydoPhQMr5gE8kzJ4Aqfret/EXQE+VQAWUmXXgjaskCSwJj6TzI9zp62bxs6pjtbbtdQzEnduklgY/djj+aMvaddG6XbF4XfU3SjwRLDGFiRlRwTgZAp902T2IrnpgKyXSQ3a4JG5DEkAGMfqgCYJn6DdT6AGuC7Z9MXkaQMMLoJB/NnxH/Sor+54bZPcflRoEmYzmIjEe0SKaWNCFabThxt3qkQ5IEujMxOWPAERH0mqQl4IyVOym9X6ctvVd6jSo4EMp32QwiY4KrMYiV8iKtejuC16fqAM4G5HR99u6hnuSIAOfAH780D13pH4xPVt4uKT8u4ggCApJ5MRkSPA96ULbCBfTa4rTFy0zsqJcYwzKQCdrGRwcg5iqNeffv8AP+hE01Qw+PNGLlk3rS/mLtnBLFATuUFTmPMSIB9qo46wRqe1ltoFDFUEozKuAyvzXqGguutpluBV2NDAKSbYbhs/MpPBg5xwa8v+Oeh/h9VKttt3QWUsvymMrEce3j+Ksnqh91/iyDhUq8Cn8YrK7liCbm5wogIvugmJ5xTD4a12zVWgl1/Tcnt3AkjIh14BqvWbJFsuzbYMods7yPY+PHNOPhkk6i0xe2xZiTjuH0Pge9c/Uf8AHJv7lkkuPex6d1BEApE6rVg1PTZ5NI+o6YJxRjKzwpwp2Cvt9hWVErH2NZWsPbLja03vRA2r5rZT60o6rbYZBrlcdWzOylEc2uqoMGs1vUUjBFVC4tw+DQ96xcTJBAqEfhmLvd5bMWXUtKqLCeo54xRdjW2iciq4lzAiuobx/gV3duhVl8j3W6pJBFcHXiKTOrDkGKm0NlrtxEX9RA/Y8misVgeZ3Rb+nhrdgsF73gxBJ2mIG0GTI9veqz1PUXHFu7YYK15m065Es7wLm2ULKo3BeBg/y3+K+pNae3DKtvKMBJuwBDFFyoADESR5ql+iz2ruoF17foFSltiEeGYwQeDEAzt/fFGR6eKNJIXdXvIZ3qbN5btq3bup8iJp5t3TAAZnDgNI/aPPPQdIbvqguW2OxV8/mQWJcTmTM/vXO+wv4Zr9179llvF0Ru61dJ284mYttOJg0s6b1S7pILN24dbRE71u9rOrDCmFGDzWWzDOOpUemfHPwVvvWXtodj/OVEkCJmKU9L/2ff8Aq1LA/h7fe7sIwudscSTTfoP+01PTVO3t2hdxCkA8TOIHE0k+Lv8Aae9wNaSIHO04JHu3kfakUpXXgGmL4I/9ovWFCuAQXusBtAiLa4An2AP+aqvRdFbvslksLRtped7pMhyo3KqmQBAAHuZJpWNY952uXCjdrRvMAQuCo8n2Hkx7U0RbNyyzdtt7Ys2rdsAk3AAxvXnjM+T9wPFWGjHSPfgfrqaS96z2zc7GEAHtJzvkjGA4PJge+a1e1rPdN5Qe4l4AYKDLN2gzIB9o+U1rUdWRtFZ04shWVw5unBZ4kZZZjK/YBZIFWLpSaJen3GuR6wmB2+qPKmYAbBGYHJrmkvHqdcZVvRxp7epv221bPu9PCue8sQf0z44EQOagbqN2/dDPcffKiVGZ3AGVLBlHIwRgTyaXaLrd30zaJPpOdxBaPUAJUgAjDTtH3B/Z/wBf6vZu2LFq2mx7Yht4KkEAA93J8+8/tmdId2Fdb6TeF5Bduz6kDdMCWhdpx3KPY/X7jjr3RDpcMwKmSJNwqJJwbe6W5BwD7nHCfUXrrkO5uNvwkbASoEfODIUe2CfcYNS9Q6reuFVuXFuRMAlVIDAyAWO1wMD3ESecumvQRp+paLVq9pdNO229u5tY9iqEhRBZVx+kUFfsXBaGqDgDeJBkkQQJFtSBJMdpz77hgBprdVcsm0pUqncwcbtsCRt+gkfNjuGPcbT9RvMpsWpaYO1TbkRPc3zbmIBwPamjW39iMc2taVtgvIn5HZVViFWbhWNxJGCAQIB9q569YUJlYLPuDr6mAQSSwkbgQcAwJ+tRdL14Np7WFbNxSXyCP/ySTAPgGZgZNMvRW62wMQWHiSUNwHJDf4OP9avCW25zzjvsILNx4t3CxRWlVZhsaFaDbgkmBjBBgDmt/FXTzf0bqki5akgEAmFBmD7ETnzitto7iJeU7yEcb0QyxYDaHAuESCAciBx81HdMRNqoAU9Rdwl1LEEZUrgjb7DifFPD5JJ+64/8EyfMtjxsaxY3FSCu3YVACBhzuU8zVu+Dek2bgGpLMzbpKwAu79qrPXdG1jU3bAG6GIUEYg/LE581dvh2w1vTKm2Gkkj2nwah1LcZaPdBk0oWh9f1m7zQN7YeTNQCy88Vn4I8muafU48f1SRxdqzYKjxWUPc1AUxWVRTTVg7Zc+oxbXPNJN5PNH9Zul3xwKHs2cUqdmnuzq0gmiyithgK5tac0QmkoNtcBS2NN8OW4DCm3TOm2wMgYo2zpR6YLGgberCkgVyv9TLqIt/TRVQhFE+q0VpsbRQ2h6Olt94AxxTPT6y02DiiNYipbJBxE++Ir0I2h9EZb0ed9b12xiObfqW7jMWVASrbhbnsMsMZ3Y/eq9qNZY9RL8B992676faiIF/4eZg+DIk4o/rGpa0pQztu+k5YyhABO1GuXGBIz8rL7yKA1t21avXrdi0LltkFtGPzW7xCgvsUA8gjH0yKo0Vi9txLprYfd6Ng3XOnc3w4n0yGxetCd2F2/bOKzQaV5tvZvae0727iMpKqERRB9XeCNzgT7n6UdrdBfDvZW2tttHbueq1sqjXFLbmZ1U90bl+wYjM0Lf0i7LCJp7gvEbn3SwujduTZb527QZjmtJ0OlZX9R0+27MbW9FVbYG7vBcna73HEC2syRM+1bsdOQK5a6vYygojMTqO45t9sBViZIq1a5IuW9TdSybd7Js2X9NIt4Vbip8mYx9/NC2ksF7tnbaUXbqhL3ftsJuM7FMGIgScwKykNTAl0WotG6zWJe2jLfdh6gQ3ohmPyq4BAEcQfNFdMvadG01x9Oxsp23ATIv3RJcicGNydv9vHJGtNpUK6i1+JYLuUWkEhdRcL7Q7AmAoGZP8AUK41unvBRbclrWncoG+a2jOzFodcyTB/b7UW7AluPNHa0b6fUXXYpdD/AJST+gt24gSJMZ4gea5boF9dGuqxsJAEE7htJG8LEwf9ZjFB9Q6Dc0/okQReTemwljujjAB3Bo/1Jisu9T1C2hpHJKW2J2bYhhJ4bII+aD/ioy53LxV8Mtfw78Lpf0l2+Xkgttkhh2KYLMOeRwfANVzT2zO1VcgGBkuFX5jKBT4nIAyf2riz1C7atsi3SEadwWYJjuJtkARBXxGD7U1+CerLprjNdtkqyf05RoJ7S2YMET/OKSrSHtq2N+vdfW/prdnYoNsLJZS6EDESg7RgycRFZ/s+/Ds11LqqMBck7SczG49zbSM7QYAPmlNjRtq77raEbizAOo2qON5M7S3PvMczS3WaJ7d30iG3qxQEucZMhII7YII4Mk4NPb/gTZ7epYOj9Zt6TUsAoKNIAVkkr4d3LSD3CBjBNC9P6q66o3wjBBcM5LMQ04MvgACcCIX2ml+t0d/T/OrwwJChWYERBc9w587s5jxhr1bodu3pbN8MJbaH/JSCCNw7QpIAIBkz8xmjzaXncDaVN/gL6aiX9VdhioO+5bKYRWOQ08M3kkGK70jG2oxhz4SCWBiewGTIiR5nFK+p6u1c9E2wiXFAVsPlwRAEKdx3GDKnkY80w0XUmCG3c9RvbmVeFB4RDHPA5MYiqRfl+f6IyW2xxr7N43rieWUll3F9yYaNk/2n74PtUnSGZCu5VAOQVCwcmSrMROcdo/0qQLcfUTvAKoWwGG6UjbJn9MzyTiaF0use76anKoW2so2mDkA+OBHkiY+tUlv7+xKzjrXRE/Em+TLFV2iAAI8mOTWrTG0OJqX4r1LKyEcbc/zS3R9T3dpFcvU49buX2IJu/wADbTakNQ3VdRsFQ/gWncppf1m80QQa8R/DZd9STtFJZPlIXIbNZSUX28TWV7qiSPXbnSyDzU1jQCYphbyM1JpLUmpaVY+hHdrpSxzXKaIDJHFNrVqKm2in0FFBFQ1+qJY5hVHGcml9pjBPvT3rVsO21BnzS2509lEEGlTITg7IEemmh1TFSszAkUs9A0VoFIb9iKdS3BC0yj9WuxduE24LBkDFpJODtG5y0Z8cTOIBpdbutetJpraBrhukh+54hdqoJAAAA+aY4zTf4pXY7CJU7sC1gM4hoKgmSYM5POYpL1HX2bd2bUIyXQ6uSxuKpUBgZPeN24xPnjmqrc6EZq9Lb22G9VvUu7l1EmfTBuCZVSP0yzZI7ZyaOGjvPqbgTWJu0qlbT7tu62gwqED2J8nn+AU6dZCrcNwMg1BtOq21V/RAncfK4PsI8ZqXT6TStrTa9bbppb07hAO1e8qDPIJj6ZX60H6FYsE0rW4T0bbXb7bw6sm5c9qtbAzuAPJ4MUVpbdp7Q0yWV/ENczduNtKIonbmNow0zzUegsX7Je9YJ22mCm4pgw5IXkjkACcfMPaakXQ220xvm/N43I9OFLGYLOx/j98HzSjg1/oQGptWDfsn1Nm51Mom4/Kze8AnxM/tW209wXW6dbvW2tvfXuxtZ1JClm44WNs+cYEDOr9DuWVsPvQ/iE3qowVnjcBzBM4ngDxUOr+HtQl+3p2EXLhUqN5mGY8v8q4Jyfr5Octg8+SK6LumvemTmy2B8ykofEniS5x7wMxFg6Tpj1TWMXYWyRLbQM7QBETk9uQJpX0RLVjWumvyBvDxuI3AE7piSv7zMc0Dd1Pp329JmVQ5VMw23eV2yeBChSfoJ8UGv4CuduR7qtGlnW+gbh2owQkEg7AJAz8qwYif0t9KP+O7GlRrZsFJIJcA8TtjbBhSQCI4bNJ+n9Fvaqw19CpKGXkjeY7mI5zknPiOaXWiZA789vCjtkbSpB7o9PjAkxMwaHq6Dy1vwNOgdZfTXN9sbpiVUQYI/pJyfp+k/QxXF/X3Ll06hpMsCWFsFJ/oYbZBiZj2HNPeq9Dt2un27p2+pcKtuBLKdw+cqFwQIJI9zyIFAPrS+kXTrbUw+/cASwB7p9OQdwJIIBHy4mayi2lfDBqV2if4s+IU1fpBf0juUFe7dtxDAYGRjIk0qTVvtCfmoBBgKrAboyDyFJ8gefm8UVoek+tpr171iPTO6CS4jBZsruOY5BIgjPNTLqrB0QtKii6j7xCIZ+YFiFPJAYeM8/V1bav3QraSpDDWaddPa01+08uTLBW2gwDnKFgPEcfuaGvAXFJVVN5rgYQhYbTunxbPkck4jFKzaZ0F5rZAnaJVTyJENu3LgeDHnOKaNfS2bTacreMKzy6klzPcXbuBEgcwZ5mnj9vfuxJEmsvbQnpYfZ3bFYndBBkoCCRjk+eDUHTHLxNq56gZe97QACkEkYwBPnP7V1pvTZ5vLKrOGYMA5G7uQYAHMwPm9sgrp+jUvbZbQQqCsbAcZJIaSRnGWI+lM+Pfv/ZL8jTq2jFxQTyB9v8AH81U3ARoNMtb1Ui+6zgGB9IHGa6NpW7iOajkdOmR53RHa6hjANdDUq57lo3T2rY4FT3EtH2mo/g1CptBabMVlTXrYBwcVuiLRfdPbgVxdYoZnFTrMVFqQCKZnQMdHqw1Gq1V/pd2DApuqmnTDFk4tqMxQWqG9ojFFIM1Iqig9xqsBbpSkVFb6RBmab1lbQjduJ5r8ZWNhJ27gYBDHEQ0x/TgtMZOMiqInpot0OpLtbm0wt7e/cIaAxgQGgk/uOB658Y9NDidoYSDBEj+6R9q81udPtNt9RjbAba+c7LgOx4UwTMiIMCMHmqRe1E38shP1GzaGz0mDAIDc3fLbuzlR/bgNnwJOTFM7Fu1q101iyCL8sHeRDiCVciJJiTHIA8ECIWsfhms3wyXADc3K0EKyHa6/wDuAEMTxPmtarplxfSu2Lkm7lNrZts+O7zI3qo4yfetJFIyXqbtW9T+fpbYLCGN1O7a/pNkSTngAkeAfpPHTTpyl0Xmu+qB+TABDNLLBkecYMEFjPiu+jjU/iWW25tXm7DMggtwHJnyCfMmJzgRdGXTobqahWYqrJbIBIF0bVO7+oTjGAAfeaVKx75IdNavX9zLuZLU+5CKDH1gkrMLPzTFS6t9Xf8A/VSz7GRfUloUiSowBtyFWP7pmoundZvWrbJabF5VDR82wbtuY5I7f/cI+Wa1+N1Fi0bbbkVwLu3IB2jchBbx+mMyUHvW/cbydJ0S62qFrUN6TXpIdoMg/LkxuMmYJ8gRRXw70uw+ruWL9xVA3gEOwBIeAqyZOV3DnmlfW9bc1h3XWk9iAoP6WEg/UHafbmmHV+l27K2GtXfUFxN7CNxDcwQBAG4+IxPtWo2/DITrLmne5bt3YQkyB2Ar3Mu1eIIPkew9qOHRAmjOpLrtB7k2kEwe4SxieciMTnMAax0q69k3Qk2liT2tuMruYKPmGB5yZiJg8aPR3ryFUDOABMHG6NyuSTzIA8YbORS3/AW/TkHu6hyFQuxCM2wxu2qIJ5IYEArI8qZkQItPwizaezeux2hIwCqAzBBbIkRn/vhdo9LY/D3mYj1SdqKAMGMJtGDBJgHaRxjihV6pdW22nRkFpm7gpyGgQsEkbD5XMZ/pp1Hhv3QsnqTSN2SXZktzuYkMEDpJhRAyRvnccRgEjBoq0Bp/US6m65EIRtQggiSpgd0AHbz2nA5PHStedNd3m2W7RAyQqnKbwCSoA2gOAeSDkScF03LrG+xCN3b7TfrGVGwbs/bGDgUUvIrfhcDTVPbXTW7KmFY7rhUKAhJHzASsrmQfrUGmvKmoJtl3tidva8MWWA6LbG0jIM5x5FLdLZU27rlhOCmxslpg96cjkcEg481Npe62im0IDMWjuWXMAqd3dwfvB7TzT1tXv2ybC7t9mVbFxQV3bzKqCABn8tgAyjHcmQZkCnvSNOokrBE4ggiB9uOKV2LG5+GU7pgKwUKAMEXAQx9yNrcc0/tWyFAXnz9vb/z2pZyrcTaiodV6e9ty7SZJJP3M1HpusEYKkirvcTeIZRQ46baH6RXO56uRUq2KuvU1P0qT/eSea6650CZa3VP1mnu2zkGjpTBaZcU11s+ayqENcw81lLoDpPfL2rxzXGjdnaPFc3elk+aP6fpdo5rLkfexlp9Ii5AosNUNkzUypFVRRIhvXI8UI+rI4o+6gIqOxpgKFGpnGmdm54o0VoCt0yQyQNr7O9CPPj715V8TdKCMxbcCSCsltsEncoRYG45znjPgV66wqt/FPSN6Fhz7xwYOaD2dizieQavplxSEK/MQqtHbcuR255Kd26BghBO0YHHUtE1hkUMTeUEupkshBJR2c9onLkgfpMc016rpriqyEyjTKYIlcDex/USQOQIDdvApR/u97y3HU7ikM4M7is7ZzlwALmDAPZAgCXtcixl6kmu19vV6gXCfSlVglQe4ALvI5JcwBzCzjNQ6a/pRZvJdQvcaUtsGU7AuSB7YGSJEnnNa6rrkuIu2wLV0clT8zEEbjMZUMSX43f4h12otFUFm3tZRzJYPn8sqD8vhjHMrzNYdcEtnpD3tNcvrcRSkFlzjcu1dsjGxCYM+T7VJ1jq9zUsBeIVVRlBCDtWdsxzw2ecr9MQ9Ta18thnKemAw5IJ3yJ4y0RiTAjmptRo7Pohrd38xmKspwoU7iSGMgjbvzPBGa34Dfl/sNeuWdHZ04W03qXdyy57oAdTcJjAGZx70q6X0S5qVYoQoTYQP1ABQVAHvtM8gHdJrnrHS7tgLv2w+xl2ndADjcOM5K85MnnimOk6bdtWPxFq8qchrYPyjdFzIHdkAxjHBoUtqQLqPO4PpPiO96I0hAEsFjaJhiVZAc53AnM4I9oPPTus3tNuFsgNcwQVICkqx3CCJjtxyM84pdotYbTpcAnY3LCOA1sbzHKMCCfZ/oDTd+oi/qN94flT+mCqhGXIgTMYJ90MSJjb/AMBaXp+QK01oLce420t3JChwSCWMk4ZcmPpcCyAcG9D1qWLm503k9inEB/0qfsdwEweDgHGattONVNpG9IMoITaNxXCyrjbk9oMgEmCc5iva9PUF22qrbMIVAI2oQFgiMQe0yDBfOAAG0vhg1WZrtab9wG6CHOEMRHugEiDG0xMMA3OTRvVbdiEWyWYhdzy24gEiJU/MJ5BEgARBANRai7vsItu2Vubge0KJ5IUo2CYCtEwcwcTUfoTIkEqZWAS4bG0oZ/8Atkbht/t8EYet7Yt1RmsFsHahbtAkkMzwR3FZ7tsT3j+k/NNMbN6XYoBkQu4iQIz3AHmPlPG3jxQ9mzuXbtG3cpPbtcMIHzAzMjGARGZp10nRkmY54EGTMeDPsAR9PAgUrdCN3sF9NsbUgZByBM48QSfaBXdlboYt71Z9Jo1trBMnzQerZUPiuabckaqArdwz3CiBtpPrtd7ChE1rDnipJ0Bse3VUUq1tpG5UVIusDDmh79yqKSZOQi1nQbLGYFaret1DBsVqnV+om56Q2sap7F/dUNuCK7Qr4qSbOsaaK6OKKuXgPNKbbBczXF3Ug+apexrHCvXTXDGKS/jXHijRqCFmjqVBsPsk+anmlmkvFualZm3Yo2FMPrHUEQeKjV62zYp7Q1lK+Kvh/wDUoEeP+59/r9RXn/UbLBhu7XYMH2AgGAZJz9QDJyEwBNe4Mu7DCRVR+I+ggyU4OPqo5j7fWpW47kpR8o80s2LahbgZdxMFHBKhO1RLCRtCq/EAkmCRQumOn9TvQqtwEqUiUkCDByQAbQ24yffFN9f0sqpQqNpYQfJXErjknb94/wADXWcIwIXa23JA/LdyxbbyRAE7fJpk0+AXQHY1Vq2lxdoYODsf9VsWlKmDkyFIM+7x9hjZYWyxVhbAuDxAIQqw5mAEIB/uGDwTdNpA7MWRmXbEKTuyygkzJIm208SFHvniyLjoLe4BYX5j295cMSPJmTH2GOaa0NqI7envakwZJtq2SwxJWFU+CsJx9f3n0Gjdrd24txAIdfTcxIJk9uMxA+6e1C6lFQwrEqN5YwZJQEknz4Jn+z61u4iqFJMHDHkgYTx57R//AEKNm8bEuh9H0nD297sWIYA5DKo3ADgkOsiMGsT0haHcxukSzcAqMSCZBgkc+54mh7dgIQCzOi4ngbrRbEAnBWFzzIqdnAckISsksh8oZ3HnnExHCUUa7ZNZtWILuQWHKkQpG3a4uGIAIiR7AEcGIdMqBizq0d0Icv2EIwecdo2ruBhgoJgwQSFSGO3v4EQAu/cOfMnf80AgrMECRrGix2kEkzxmAIAJI5C4B5iPY0U6QE7skVWXIwoMnGVUjBBkSu4EyIPdJIYZN09rYx2dqnwSO1nMEqcyrGMYIJBBIOMTQu0lVLMfecnyBg7YESDHAPvNi6d0kTMR/bPaoxj2xApXkSA9yLpfTzABBzwD59gR+/v/AB4t2j0XprPLx/H0rjQ6NVzMt7/6UftkVCUnIyjQF6h81X+s6zMTTvVgzzSPqXSPV5pL9TNbilOpgHNL9f1gTERXeu+H3XIJpVf6U7YJzWUoDOBr/eDTAajLHUrifNmldrpDoZJpxasgpyJqcpSUklwdWnC8dtbkx1SNk4rVA3NHPmtVbY4dJ6pbaBitJbOTXK6wE7QKn9bxStFBdf1ZY7QKadM0B+Zuaj02mBbdFG63UlRimj6sARqFXFZag0ofXSAeaaaR8TTKg2TOwH0qO1eAPNRa+52k0k095mbgxQbpmstKNNFqKWadtoo61ekTToayeYpR1HUhDTG7cEUj6hYLZHihJ7GbBb+lt3gZEE4+mfpVf6j8MENvWRA8cZiT9+P81YNJqFUmTEUytau24gGSKkot8CujzG70q6pBUfLz5GCNo+gAk/eKW3tEc4aSABPIUbYMnI8/+DHsN23ZYZANC3OjWWGCR/n38/vTXkQFFeDyFtNMiBMicY7l2kjH1DR9f4ku2C0k5BKmY/pXbugH/wDUfsa9Q/8ApW0QcqTjJQSIn2+sH9qFufDKYEr5nB81u5LyjOLPNLujM5G2DuiB+kq2T5jj7V3ptCVCjJgbeMrBlW/wMj+n6RXqFv4WSQSwIHI25Jzmi0+G7YHnxwAPAH+k/vR7kvCDpPMtN0e4yqSCpjyQYJAkCeM+3MA096X8OM0ZJwAYWAIjyPrH2j61fLGisJjYCfrnjHmi/VHAFZa3yzaUVlfh91SRExwP9TSHTuWubX7Sp4r0BWORVb6z0LexYYP0oOOwGiZtN2gq1Za18dppEmtfT9lwmPrQ17qytwc+Ky4Esb9WL/MKk6dqvUXPNV//AH68QyyPeptB1JSfakfNjJlhu21Iqv8AVdAORTJtVXH4hW5rUgWU28rAwZil+sUplTVy1KpB4qq69gSYFFWOp3scaPVmM1qljuwOKylK6Uex6esHzVqspiI10nFQ9S+Q/at1lM+DCTR/KPvT3T8VlZQiY61ny0NpaysoT5CMhRSfLWVlVRiM1y3ymsrK0jMpur+ZqK6D+qtVlJERBK+fvTLScVlZTsfyGJxXHmsrKWQQo+KI8VlZRQUL7vNSWq1WUyAT2ua5vc1lZWZjz7484qlaTmsrKXwRX1D218lB/qFZWVGI/keL8v7VFWVlOIQ3+D9qSng1lZQ8FICXU81usrKBdH//2Q==">
+            <li>Фуга - тому, що морда рибка схожа на морду риби фуги</li>
+            <img src="https://i.imgur.com/KaZk8xY.jpeg">
+            <li>Дуга - тому, що я вирішила сестричку назвати схожим ім'ям</li>
+        </ul>
+        <h4 id="rybki4">ПРО ЖУЧКІВ ХВОСТАТИХ ТА РАВЛИКІВ</h4>
+        <p>РАВЛИКИ</p>
+        <img src="https://i.imgur.com/EbT5RW4.jpeg">
+        <p>Жуків я називаю мальків, бо вони малі й швидкі, мов ті жуки. До того ж вони іноді смішно ганяються одне за одним.</p>
+        <p>Вони занадто швидкі, щоб я могла їх сфотографувати, тому вони будуть у відео</p>
+        <h4 id="rybki5">ВІДЕО З РИБКАМИ</h4>
+        <section class="video">
+        <blockquote class="imgur-embed-pub" lang="en" data-id="Indxh1B"><a href="https://imgur.com/Indxh1B">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+        <blockquote class="imgur-embed-pub" lang="en" data-id="8vTPb1w"><a href="https://imgur.com/8vTPb1w">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+        </section>
+        </main>
+        <footer>
+            <aside>
+                <a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D0%B7%D1%83%D0%B1%D0%BE%D0%B2%D1%96"> Що за риба - Фуга </a>
+                <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%83%D0%BF%D1%96"> Що за риба - гупі</a>
+                <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%86%D0%B8%D0%BB%D1%96%D1%94%D0%B2%D1%96"> Що за риба - Пецилія</a>
+            </aside>
+            <article>
+                <a>Головна сторінка</a>
+                <a>Історія</a>
+            </article>
+    </footer>   
+</body>
+</html>
