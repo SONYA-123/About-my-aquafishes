@@ -1,0 +1,22 @@
+<html>
+   <head>
+        <title>Рибки</title>
+        <link rel="stylesheet" href="style.css3"/>
+   </head>
+<body>
+    <header>
+        <h1>Ще трохи про рибок</h1>
+    </header>
+    <main>
+        <h2>Трохи про дорослих</h2>
+        <p>Останнім часом складається така ситуація: Альбінос трохи клює Дугу, Дуга Альбіноса клює, і часом ганяє Чорнобрива. Всі троє малих від себе ганяють</p>
+        <h2>Трохи про жуків</h2>
+        <p>Власне, клюють всіх підряд, й іноді одне одного. І мені доводиться їх ув'язнювати у сачку</p>
+        <img src="https://i.imgur.com/CyxaFv9.jpeg" width="600px" height="1000px">
+    </main>
+    <footer>
+        <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%83%D0%BF%D1%96"> Гупі </a>
+        <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%86%D0%B8%D0%BB%D1%96%D1%94%D0%B2%D1%96"> Пецилія </a>
+    </footer>    
+</body>
+</html>
